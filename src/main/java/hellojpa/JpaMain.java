@@ -26,6 +26,8 @@ public class JpaMain {
             em.persist(member);
             */
 
+
+
             /*조회
             Member findMember = em.find(Member.class , 1L);
             System.out.println("findManager  : " + findMember.getId());
